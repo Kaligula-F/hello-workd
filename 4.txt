@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 nihao
-=======
 remote dkjfk
->>>>>>> origin/master
